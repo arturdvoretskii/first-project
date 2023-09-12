@@ -1,9 +1,7 @@
-h1 {
-  color: blue;
-  background-color: yellow;
-  border: 1px solid black;
+title {
+  color: black;
+  font-family: William, serif;
+  font-weight: normal;
+  font-size: 60px;
 }
 
-p {
-  color: red;
-}
